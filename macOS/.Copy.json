@@ -23,7 +23,7 @@
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": null, 
+        "regex": "^((?!(gnome-terminal|kjs3@kjs3-box:|Terminal)).)*$", 
         "isRecursive": false
     }, 
     "type": "phrase", 

@@ -1,8 +1,8 @@
 {
-    "usageCount": 4, 
+    "usageCount": 3, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Select to beginning of line", 
+    "description": "Prev Tab", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "<left>", 
         "modifiers": [
-            "<shift>", 
+            "<alt>",
             "<super>"
         ]
     }, 

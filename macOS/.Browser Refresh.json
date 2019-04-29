@@ -1,8 +1,8 @@
 {
-    "usageCount": 4, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Select to beginning of line", 
+    "description": "Firefox Refresh", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,8 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "<left>", 
+        "hotKey": "r", 
         "modifiers": [
-            "<shift>", 
             "<super>"
         ]
     }, 
@@ -24,7 +23,7 @@
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": null, 
+        "regex": "^(Navigator.Firefox|google-chrome.Google-chrome)$", 
         "isRecursive": false
     }, 
     "type": "phrase", 
