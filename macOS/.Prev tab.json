@@ -2,7 +2,7 @@
     "usageCount": 4,
     "omitTrigger": false,
     "prompt": false,
-    "description": "Next tab",
+    "description": "Previous tab",
     "abbreviation": {
         "wordChars": "[\\w]",
         "abbreviations": [],
